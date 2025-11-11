@@ -29,6 +29,13 @@ Dieses Projekt implementiert verschiedene **Clustering-Algorithmen** zur Segment
 
 **Quelle:** [Online Retail Dataset](https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering)
 
+### Datenbeschreibung
+
+- **Transaktionen:** ~540.000 Datensätze
+- **Zeitraum:** Dezember 2010 - Dezember 2011
+- **Kunden:** ~4.300 einzigartige Kunden
+- **Herkunft:** UK-Basierter Online-Einzelhändler
+
 
 
   

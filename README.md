@@ -36,6 +36,8 @@ Dieses Projekt implementiert verschiedene **Clustering-Algorithmen** zur Segment
 - **Kunden:** ~4.300 einzigartige Kunden
 - **Herkunft:** UK-Basierter Online-Einzelhändler
 
-
+### Features
+| Feature | Beschreibung |
+|----------|--------------|
 
   

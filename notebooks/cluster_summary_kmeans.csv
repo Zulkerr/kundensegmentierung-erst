@@ -1,0 +1,5 @@
+Cluster,Cluster_Name,CustomerID_count,Recency_mean,Recency_median,Recency_min,Recency_max,Frequency_mean,Frequency_median,Frequency_min,Frequency_max,Monetary_mean,Monetary_median,Monetary_min,Monetary_max,Monetary_sum
+0,-> Neue Kunden / Recent Buyers,837,18.12,17.0,1,53,2.15,2.0,1,7,551.82,471.7,35.4,3861.0,461872.95
+1,-> VIP Champions,716,12.13,8.0,1,372,13.71,10.0,2,209,8074.27,3733.87,808.62,280206.02,5781175.08
+2,-> Treue Stammkunden,1173,71.08,56.0,8,366,4.08,4.0,1,14,1802.83,1345.62,322.41,77183.6,2114718.42
+3,-> Verlorene / At Risk,1612,182.5,177.0,23,374,1.32,1.0,1,6,343.45,298.26,3.75,2169.39,553641.45

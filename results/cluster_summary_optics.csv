@@ -1,0 +1,5 @@
+Cluster,Segment_Name,Anzahl_Kunden,Avg_Recency,Median_Recency,Avg_Frequency,Median_Frequency,Avg_Monetary,Median_Monetary,Total_Revenue,Anteil_%
+-1,VIP & Großhändler (Noise),175,59.91,18.0,18.69,8.0,19759.54,6281.23,3457919.18,4.0
+0,Champions (Beste Kunden),1878,43.64,24.0,6.47,5.0,2342.25,1595.46,4398743.97,43.3
+1,Verlorene Kunden (At Risk),1464,158.02,134.0,1.0,1.0,342.39,256.01,501254.71,33.7
+2,Potenzial-Kunden (Developing),821,94.57,63.0,2.0,2.0,644.69,542.03,529291.03,18.9

@@ -39,5 +39,15 @@ Dieses Projekt implementiert verschiedene **Clustering-Algorithmen** zur Segment
 ### Features
 | Feature | Beschreibung |
 |----------|--------------|
+| InvoiceNo | Rechnungsnummer |
+| StockCode | Produktcode | 
+| Description | Produktbeschreibung |
+| Quantity  | Bestellmenge | 
+| InvoiceDate | Bestelldatum |
+| UnitPrice | StückPrice  |
+| CustomerID | Kundennummer |
+| Country | Land | 
+
+
 
   

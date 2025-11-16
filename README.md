@@ -192,8 +192,11 @@ Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 
 ### Algorithmen-Vergleich
 
-| Algorithmus        | Cluster      | Slihouette Score  | Noise    | Best Parameter | Vorteile    |
-|--------------------|--------------|-------------------|----------|----------------| ------------|
-|  K-Means           |  4           | ~0.45             |  0%      | k=4            | Schnell,Klar interpretierbar|
+| Algorithmus | Cluster  | Slihouette Score  | Noise    | Best Parameter | Vorteile    |
+|-------------|----------|-------------------|----------|----------------| ------------|
+|  K-Means    |  4       | ~0.45             |  0%      | k=4            | Schnell,Klar interpretierbar|
+|  HAC        | 4-5      | ~0.42             |  0%      | Ward Linkage   | Dendrogram-Visualisierung|
+|  OPTICS     | 3-5      | ~0.38             | 2-5%     | min_samples=5  | Variable Dichte-Cluster |
+| DBSCAN      | 3        |  0.153            | 2.8%     | eps=0.4,min_samples=6| Ausreißer-Identifikation| 
 
 

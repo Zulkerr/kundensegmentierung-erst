@@ -79,7 +79,7 @@ Das Projekt implementiert **vier verschiedene Clustering-Algorithmen** und vergl
 
 ## Projektstruktur 
 
-
+````
 kundensegmentierung/  
 
 ├── data/  
@@ -114,6 +114,8 @@ kundensegmentierung/
 │   └── noise_customers_optics.csv          # OPTICS Noise Kunden
 
 ├── requirements/                       # Anforderungen bzw. Abhängigkeiten
+
+````
 
 
 

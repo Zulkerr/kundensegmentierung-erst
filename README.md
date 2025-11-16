@@ -158,6 +158,13 @@ openpyxl>=3.1.0
 jupyter>=1.0.0
 ````
 
+## Verwendung
+
+- 1. Daten laden und Vorbereiten
+- 2. Clustering Methoden anwenden
+- 3. Cluster Evaluieren & Analysieren
+  4. Intepretieren & Visualisieren
+  5. Ergebnisse Exportieren 
 
 
   

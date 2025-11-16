@@ -146,7 +146,8 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ````
-```requirements.txt
+### Requirements.txt
+```bash
 pandas>=2.0.0
 numpy>=1.24.0
 matplotlib>=3.7.0

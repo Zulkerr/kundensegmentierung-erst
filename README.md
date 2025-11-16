@@ -83,38 +83,38 @@ Das Projekt implementiert **vier verschiedene Clustering-Algorithmen** und vergl
 
 kundensegmentierung/
 
-├── data/
-│   └── raw/
-│       └── OnlineRetail.csv          # Original-Datensatz
+├── data/  
+│   └── raw/  
+│       └── OnlineRetail.csv             # Original-Datensatz
 
-├── notebooks/
-│   ├── 01_hac_clustering.ipynb          # Hierarchical Clustering Notebook
-│   ├── 02_k-means_clustering.ipynb      # K-Means Clustering Notebook
-│   ├── 03_optics_clustering.ipynb       # OPTICS Clustering Notebook
-│   ├── 04_dbscan_clustering.ipynb       # DBSCAN Clustering Notebook
-│   ├── cluster_examples_kmeans.csv           # Beispieldaten K-Means
-│   ├── cluster_summary_kmeans.csv            # Zusammenfassung K-Means Ergebnisse
-│   └── customer_segments_kmeans.csv           # K-Means Kundensegmente
+├── notebooks/   
+│   ├── 01_hac_clustering.ipynb           # Hierarchical Clustering Notebook
+│   ├── 02_k-means_clustering.ipynb         # K-Means Clustering Notebook
+│   ├── 03_optics_clustering.ipynb          # OPTICS Clustering Notebook
+│   ├── 04_dbscan_clustering.ipynb          # DBSCAN Clustering Notebook
+│   ├── cluster_examples_kmeans.csv             # Beispieldaten K-Means
+│   ├── cluster_summary_kmeans.csv              # Zusammenfassung K-Means Ergebnisse
+│   └── customer_segments_kmeans.csv              # K-Means Kundensegmente
 
-├── results/
-│   └── figures/
-│       ├── 02_Dendrogramme.png                  
-│       ├── 02_rfm_correlation.png                  
-│       ├── 03_Empfehlende_Cluster.png
-│       ├── 03_transformation_comparison.png
-│       ├── 04_k_distance_plot.png
-│       ├── 05_optics_reachability_plot.png
-│       ├── 06_epsilon_analysis.png
-│       ├── 07_cluster_profiles_boxplot.png
-│       ├── 08_cluster_visualization_3d.png
-│       ├── hac_cluster_distribution.png
-│       └── hac_clustering_final.png
+├── results/   
+│   └── figures/   
+│       ├── 02_Dendrogramme.png                    
+│       ├── 02_rfm_correlation.png                    
+│       ├── 03_Empfehlende_Cluster.png  
+│       ├── 03_transformation_comparison.png  
+│       ├── 04_k_distance_plot.png  
+│       ├── 05_optics_reachability_plot.png   
+│       ├── 06_epsilon_analysis.png   
+│       ├── 07_cluster_profiles_boxplot.png   
+│       ├── 08_cluster_visualization_3d.png   
+│       ├── hac_cluster_distribution.png   
+│       └── hac_clustering_final.png   
 │
-│   ├── cluster_summary_optics.csv            # Zusammenfassung OPTICS Ergebnisse
-│   ├── customer_segments_optics.csv           # OPTICS Kundensegmente
-│   └── noise_customers_optics.csv    # OPTICS Noise Kunden
+│   ├── cluster_summary_optics.csv              # Zusammenfassung OPTICS Ergebnisse
+│   ├── customer_segments_optics.csv                # OPTICS Kundensegmente
+│   └── noise_customers_optics.csv       # OPTICS Noise Kunden
 
-├── requirements/                    # Anforderungen bzw. Abhängigkeiten
+├── requirements/                       # Anforderungen bzw. Abhängigkeiten
 
 
 

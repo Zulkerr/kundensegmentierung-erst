@@ -117,6 +117,20 @@ kundensegmentierung/
 
 ````
 
+## Insatlation
+
+### Voraussetzungen
+
+- Python 3.8+
+- Jupyter Notebook
+
+### Schritt 1: Repository klonen
+
+```bash
+git clone https://github.com/Zulkerr/kundensegmentierung.git
+oder Zip-Datei herunterladen und extraiehren
+````
+
 
 
 

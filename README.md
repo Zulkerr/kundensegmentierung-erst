@@ -179,4 +179,14 @@ Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 - Frequency (F): Anzahl der Bestellungen
 - Monetary (M): Gesamtumsatz
 
-  
+### Identifizierte Kundensegmente (Ein Beispiel von DBSCAN)
+
+## Identifizierte Kundensegmente (DBSCAN-Ergebnisse)
+
+| Segment             | Größe        | Ø Recency | Ø Frequency | Ø Monetary   | Beschreibung                            |
+|---------------------|--------------|-----------|-------------|-------------|---------------------------------------|
+|  Champions        | 1918 (44.2%) | 44 Tage   | 6.6         | £2,456.64   | VIP-Kunden, die häufig und viel kaufen|
+|  Hibernating       | 1472 (33.9%) | 157 Tage  | 1.0         | £342.43     | Lange inaktive Kunden mit geringem Umsatz |
+|  Potential Loyalists | 827 (19.1%) | 94 Tage   | 2.0         | £656.19     | Kürzlich aktiv, Potenzial für Stammkunden |
+|  Extreme Customers | 121 (2.8%)   | 67 Tage   | 22.4        | £25,856.65  | Ausreißer: B2B-Kunden oder Großhändler|
+

@@ -157,6 +157,11 @@ scipy>=1.11.0
 openpyxl>=3.1.0
 jupyter>=1.0.0
 ````
+### Schritt 4: Jupyter lab im Terminal aufrufen
+
+```bash
+jupyter lab
+````
 
 ## Verwendung
 

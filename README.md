@@ -98,21 +98,21 @@ kundensegmentierung/
 
 ├── results/   
 │   └── figures/   
-│       ├── 02_Dendrogramme.png                    
-│       ├── 02_rfm_correlation.png                    
-│       ├── 03_Empfehlende_Cluster.png  
-│       ├── 03_transformation_comparison.png  
-│       ├── 04_k_distance_plot.png  
-│       ├── 05_optics_reachability_plot.png   
-│       ├── 06_epsilon_analysis.png   
-│       ├── 07_cluster_profiles_boxplot.png   
-│       ├── 08_cluster_visualization_3d.png   
-│       ├── hac_cluster_distribution.png   
-│       └── hac_clustering_final.png   
+│       ├── 02_Dendrogramme.png                       
+│       ├── 02_rfm_correlation.png                       
+│       ├── 03_Empfehlende_Cluster.png     
+│       ├── 03_transformation_comparison.png     
+│       ├── 04_k_distance_plot.png     
+│       ├── 05_optics_reachability_plot.png      
+│       ├── 06_epsilon_analysis.png      
+│       ├── 07_cluster_profiles_boxplot.png      
+│       ├── 08_cluster_visualization_3d.png      
+│       ├── hac_cluster_distribution.png      
+│       └── hac_clustering_final.png       
 │
-│   ├── cluster_summary_optics.csv              # Zusammenfassung OPTICS Ergebnisse
-│   ├── customer_segments_optics.csv                # OPTICS Kundensegmente
-│   └── noise_customers_optics.csv       # OPTICS Noise Kunden
+│   ├── cluster_summary_optics.csv                 # Zusammenfassung OPTICS Ergebnisse
+│   ├── customer_segments_optics.csv                   # OPTICS Kundensegmente
+│   └── noise_customers_optics.csv          # OPTICS Noise Kunden
 
 ├── requirements/                       # Anforderungen bzw. Abhängigkeiten
 

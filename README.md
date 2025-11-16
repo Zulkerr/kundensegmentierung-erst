@@ -48,6 +48,25 @@ Dieses Projekt implementiert verschiedene **Clustering-Algorithmen** zur Segment
 | CustomerID | Kundennummer |
 | Country | Land | 
 
+## Methoden
+
+Das Projekt implementiert **vier verschiedene Clustering-Algorithmen** und vergleicht ihre Ergebnisse:
+
+### 1. **K-Means Clustering**
+- Schnell und effizient
+- Gut für sphärische Cluster
+- Anzahl der Cluster muss vorgegeben werden
+- Optimierung mit Elbow-Methode und Silhouette-Score
+
+
+### 2. **Hierarchical Agglomerative Clustering (HAC)**
+- Keine vorgegebene Cluster-Anzahl nötig
+- Dendrogram-Visualisierung
+- Verschiedene Linkage-Methoden (Ward, Complete, Average)
+- Rechenintensiv bei großen Datensätzen
+
+
+
 
 
   

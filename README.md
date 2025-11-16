@@ -215,4 +215,12 @@ Das Projekt verwendet RFM-Analyse(Recency, Frequency, Monetary) als Grundlage:
 - matplotlib & seaborn  — Visualisierung
 - Jupyter Notebook — Interaktive Entwicklung
 
- 
+ ## Autor
+
+ ### Mein Name
+ - Github:github.com/Zulkerr
+ - LinkedIn:
+
+ ## Lizenz 
+
+ Dieses Projekt steht unter der MIT-Lizenz.

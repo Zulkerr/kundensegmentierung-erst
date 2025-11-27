@@ -1,0 +1,24 @@
+================================================================================
+CLUSTERING-METHODENVERGLEICH - FINALE EMPFEHLUNG
+================================================================================
+
+Datum: 2025-11-21 11:37:48
+Anzahl Kunden: 4338
+
+QUANTITATIVE METRIKEN:
+--------------------------------------------------------------------------------
+Methode  Anzahl_Cluster  Noise_Punkte  Noise_Prozent  Silhouette_Score  Davies_Bouldin
+K-Means               4             0            0.0          0.337517        1.008648
+    HAC               4             0            0.0          0.279991        1.099234
+ DBSCAN               3           166            3.8          0.174751        1.688955
+ OPTICS               4          1459           33.6          0.122829        2.543711
+
+EMPFEHLUNG:
+--------------------------------------------------------------------------------
+K-Means oder HAC sind am besten geeignet für RFM-Segmentierung
+DBSCAN und OPTICS sind nicht empfohlen für diese Daten
+
+Begründung:
+- K-Means/HAC finden VIP-Cluster (kritisch für Marketing)
+- K-Means/HAC haben beste Evaluation-Metriken
+- DBSCAN/OPTICS haben zu viel Noise und finden keine VIP-Gruppen
